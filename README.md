@@ -1,3 +1,4 @@
+![ss1](https://user-images.githubusercontent.com/54875911/127308757-7c507e2a-1d0f-478b-a9d5-7e8070634a3c.PNG)
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -13,7 +14,8 @@ Users should be able to:
 
 ### Screenshot
 
-![plot](images/ss1.png)
+![ss1](https://user-images.githubusercontent.com/54875911/127308805-508e31a4-5df0-46c1-8db5-8e6cac69fe37.PNG)
+
 
 ## My process
 
