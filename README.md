@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/ss1.png)
+![plot](images/ss1.png)
 
 ## My process
 
